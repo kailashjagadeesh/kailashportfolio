@@ -1,0 +1,113 @@
+baseURL: "https://arkalim.org" #needs to be changed
+languageCode: en-us
+title: Kailash Jagadeesh
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about_me
+      name: About Me
+      url: /about_me
+      weight: 15
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 80
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 70
+    - identifier: clubs
+      name: Clubs and societies
+      url: /clubs
+      weight: 40
+    - identifier: Dummy
+      name: Dummy
+      url: /dummy
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Kailash Jagadeesh"
+    subtitle: Hello there! I'm Kailash, your friendly tech enthusiast currently immersed in the world of electric scooters at Ola Electric, India's leading manufacturer. As an R&D engineer in the electrical and electronics systems team, I've honed my skills in automotive electronics—specializing in Controller Area Network (CAN), signal analysis, component development, vehicle diagnostics, testing, and automation. Always eager to learn, my journey has led me to explore various engineering realms. Beyond the buzz of electric vehicles, I harbor a deep passion for robotics, a path I'm excited to venture further into. Thanks for stopping by my corner of the web—feel free to check out my 'About Me' page for more on my journey and work.
+    imageUrl: "home/formal-pic-small.jpg" #need to update image
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:kailashjagadeesh2000@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/kailash-jagadeesh"
+    - name: "github"
+      url: "https://github.com/kailashjagadeesh"
+    - name: "instagram"
+      url: "https://www.instagram.com/kailash_jagadeesh/"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
