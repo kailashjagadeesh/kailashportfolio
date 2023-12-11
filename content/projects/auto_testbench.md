@@ -9,6 +9,9 @@ weight: 211
 cover:
     image: "projects/auto_testbench/cover.jpg"
 --- 
+
+<div style="text-align: justify">
+
 <h1> Objective</h1>
 
 As the primary member driving this project, our focus is on optimizing component test benches in the endurance testing of automotive components, specifically exploring the testing of the automotive throttle position sensor (TPS) using fiducial markers and image processing techniques. This involves benchmarking existing End Of Line (EOL) setups and test benches, designing an efficient machine vision-based testing system, and implementing it as a cost-effective alternative. The key contributions of this research include:
@@ -35,3 +38,5 @@ The machine vision-based testing system utilizes fiducial markers, a monocular c
 <h2> Conclusion</h2>
 
 The successful development of this machine vision-based testing system promises to revolutionize the testing of TPS components, ensuring reliable and high-quality components are integrated into vehicles during the production process.
+
+</div>

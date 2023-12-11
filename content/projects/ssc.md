@@ -9,6 +9,9 @@ weight: 210
 cover:
     image: "/projects/ssc/cover.png"
 --- 
+<div style="text-align: justify">
+
+
 <h1> Objective</h1>
 As the mentor for this impactful project, I provided guidance in developing a solution that addresses communication challenges faced by individuals with speech disabilities. The project focuses on creating a sign language-to-speech converter device, offering a more efficient and versatile means of communication.
 
@@ -31,6 +34,9 @@ The sign language-to-speech converter device is designed to enhance communicatio
 - **Mobile and Unrestrictive:** Battery-powered design ensures mobility and unrestricted use in various communication scenarios.
 
 This project, incorporating Sony sPresence, nRF24L01+ Network, Sensor Fusion, and Deep Learning, represents a significant advancement in assistive technology, offering a streamlined and effective communication tool for individuals with speech disabilities.
+
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

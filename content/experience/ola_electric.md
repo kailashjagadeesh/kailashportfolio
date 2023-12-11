@@ -13,6 +13,7 @@ cover:
 <h2>Summary</h2>
 
 <h3> Project M1: Roadster Bike </h3>
+<div style="text-align: justify">
 
 *May 2023 - Present*
 - Led benchmarking efforts and engaged in supplier interactions for purchased systems, focusing on suspension and powertrain components.
@@ -45,6 +46,8 @@ cover:
 - Identified and rectified a critical bug within the vehicle CAN bus system, successfully fixing it through over-the-air updates for on-road vehicles.
 - Developed a replacement side stand sensor based on a hall effect sensor, resolving on-road issues and conducting a 10,000 km endurance test.
 - Conducted diagnosis and root cause analysis for on-road issues and customer complaints using CAN and telematics data.
+
+</div>
 
 
 <h3> Quick Links </h3>

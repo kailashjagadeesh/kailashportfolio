@@ -9,6 +9,8 @@ weight: 202
 cover:
     image: "/projects/undergraduate_thesis/testbench_setup.PNG"
 --- 
+<div style="text-align: justify">
+
 <h1> Project Overview</h1>
 As the primary member spearheading this project, the focus is on continuous monitoring and prediction of faults in machine elements, specifically shafts and bearings in large machinery like gas turbines. The project leverages real-time vibration-based sensor data and employs intelligent analytics, particularly exploring Machine Learning techniques for fault detection and diagnosis.
 
@@ -38,6 +40,8 @@ The project explores four dimensionality reduction techniques for single fault i
 
 <h2> Conclusion</h2>
 The close mutual agreement between the algorithms and experimental observations in predicting the onset of faults in both rotor and bearing datasets showcases the effectiveness of the applied Machine Learning techniques. This research contributes to the advancement of fault detection methodologies, particularly in the context of large machinery with critical machine elements.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

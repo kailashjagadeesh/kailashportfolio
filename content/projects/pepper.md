@@ -9,6 +9,8 @@ weight: 205
 cover:
     image: "/projects/pepper/cover.jpg"
 --- 
+<div style="text-align: justify">
+
 # Objective
 As a dedicated member of this project, I played a crucial role in developing Pepper, a versatile personal assistant platform utilizing various artificial intelligence algorithms.
 
@@ -36,6 +38,9 @@ Utilizing a text-independent machine learning algorithm, Pepper identifies speak
 Trained with a Convolutional Neural Network (CNN) on 1000 object classes, Pepper captures and measures object depth using Kinect. The robotic arm, equipped with 3 degrees of freedom, approaches objects based on depth, and the gripper, with 1 DoF, picks up recognized objects.
 
 This project seamlessly integrates SLAM, Microsoft Kinect, ROS Gazebo, and Deep Learning to empower Pepper as an advanced personal assistant, capable of efficient navigation, speech recognition, and intelligent object interaction.
+
+</div>
+
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

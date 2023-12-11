@@ -9,6 +9,9 @@ weight: 208
 cover:
     image: "/projects/star/cover.jpg"
 --- 
+<div style="text-align: justify">
+
+
 <h1>Objective</h1>
 As the mentor for this critical project, I provided guidance in developing a solution aimed at addressing the challenges of tracking and monitoring wildlife without the limitations posed by existing technologies.
 
@@ -31,6 +34,9 @@ The project focuses on using Frequency Modulated Continuous Wave (FMCW) radar to
 - **Simulations and Applications:** MATLAB is used for simulations of heartbeat and respiration rates, and the project explores applications in motion tracking, contour detection, and area scanning.
 
 The project marks a significant advancement in wildlife monitoring, offering a more effective and non-intrusive solution for preserving and protecting animal species in their natural habitats.
+
+</div>
+
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

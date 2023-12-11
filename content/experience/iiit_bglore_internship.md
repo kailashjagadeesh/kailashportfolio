@@ -11,13 +11,13 @@ cover:
 --- 
 
 <h2>Summary</h2>
-
-- Collaborated with Dr. Srinivasa Prasanna on an electromechanical problem statement involving the conceptualization and development of a prototype magnetic flywheel.
-- The magnetic flywheel concept differs from conventional flywheels by storing excess energy as magnetic flux, performing torque smoothing at the expense of magnetic energy rather than rotational kinetic energy, allowing for smaller and lighter conventional flywheels in engine manufacturing.
-- Contributed to the project by designing the model of a benchmarked engine and the proposed electromechanical flywheel using Fusion 360 software.
-- Actively participated in electromagnetic simulation and multiphysics dynamics simulation of the engine and flywheel using Ansys Maxwell and Ansys Workbench.
-- Conducted combined simulations using Matlab and Simulink, achieving torque smoothing for speeds up to 800rpm, validating the successful design.
-
+ <ul style="text-align: justify;">
+<li> Collaborated with Dr. Srinivasa Prasanna on an electromechanical problem statement involving the conceptualization and development of a prototype magnetic flywheel.</li>
+<li> The magnetic flywheel concept differs from conventional flywheels by storing excess energy as magnetic flux, performing torque smoothing at the expense of magnetic energy rather than rotational kinetic energy, allowing for smaller and lighter conventional flywheels in engine manufacturing.</li>
+<li> Contributed to the project by designing the model of a benchmarked engine and the proposed electromechanical flywheel using Fusion 360 software.</li>
+<li> Actively participated in electromagnetic simulation and multiphysics dynamics simulation of the engine and flywheel using Ansys Maxwell and Ansys Workbench.</li>
+<li> Conducted combined simulations using Matlab and Simulink, achieving torque smoothing for speeds up to 800rpm, validating the successful design.</li>
+</ul>
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->
 <meta name="viewport" content="width=device-width, initial-scale=1" />

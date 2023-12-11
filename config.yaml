@@ -33,10 +33,7 @@ menu:
       name: Clubs and societies
       url: /clubs
       weight: 40
-    - identifier: Dummy
-      name: Dummy
-      url: /dummy
-      weight: 50
+
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -87,7 +84,7 @@ params:
     - name: "instagram"
       url: "https://www.instagram.com/kailash_jagadeesh/"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://drive.google.com/file/d/1RrxaL4ASB9OEbgFXgxY7s2lY17UHmMTg/view?usp=sharing"
 
   # text search
   fuseOpts:

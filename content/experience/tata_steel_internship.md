@@ -10,6 +10,7 @@ cover:
     image: "projects/automated-image-captioning/cover.jpg"
 --- 
 <h2>Summary</h2>
+<div style="text-align: justify">
 
 - Worked on the implementation of predictive analytics for super-critical machine elements during the INSPIRE Fellowship Program at Tata Steel Ltd.
 - Studied the operation of the belt drive systems at Tata Steels and identified the bearings in the pulleys of the belt drive as a potential point of failure.
@@ -18,6 +19,8 @@ cover:
 - Developed a predictive model using LSTMs and transformer architecture to analyze accelerometer readings, predicting possible failure modes and estimating the remaining useful life of the bearings, enabling proactive maintenance alerts ahead of failure.
 - Achieved an 83% accuracy in the time series model.
 - Successfully incorporated the system to work in real-time, allowing for continuous training and live inference.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

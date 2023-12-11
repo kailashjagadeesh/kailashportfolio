@@ -11,11 +11,14 @@ cover:
 --- 
 
 <h2>Summary</h2>
+<div style="text-align: justify">
 
 - Collaborated with Mahesh Parihar, CEO of MmM startup, and a staff affiliated with IIT Bombay on the development of machine learning techniques for predicting coronary artery disease using patient medical data.
 - Benchmarked various machine learning techniques and evaluated their performance for coronary artery disease prediction during the internship.
 - Contributed to feature selection and augmentation techniques, including principal component analysis.
 - The final model achieved a remarkable 90% accuracy on the test data, demonstrating the effectiveness of the developed machine learning techniques.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

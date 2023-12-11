@@ -9,6 +9,9 @@ weight: 207
 cover:
     image: "/projects/lewi/cover.jpg"
 --- 
+
+<div style="text-align: justify">
+
 <h1> Objective </h1>
 As the mentor for this project, I guided the team in developing a solution focused on addressing the challenges of obstacle mapping in robotic networks.
 
@@ -31,6 +34,8 @@ Obstacle mapping is essential for the robust operation of robotic networks, yet 
 - Addresses the practical constraints of delay-sensitive applications by minimizing the required measurements while still providing comprehensive obstacle mapping.
 
 Our project, driven localization using Wi-Fi signals, pushes the boundaries of obstacle mapping in robotics, offering a solution that is both efficient and effective.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->
@@ -57,3 +62,4 @@ Our project, driven localization using Wi-Fi signals, pushes the boundaries of o
   </div>
 
 </div>
+

@@ -10,6 +10,7 @@ cover:
     image: "projects/aribot/cover.jpg"
 --- 
 
+<div style="text-align: justify">
 
 <h1> Objective</h1>
 As a member of this project, I contributed to the development of a solution addressing the critical need for efficient railway track maintenance and inspection.
@@ -35,6 +36,8 @@ Regular maintenance and inspection are vital for ensuring the safety and effecti
 - Automated alerts to base stations for detected defects, providing spatio-temporal coordinates and defect details.
 
 The use of ROS Gazebo, MATLAB, NGINX, and Tensorflow in our tech stack allowed us to develop a robust and efficient digital twin for autonomous railway track inspection, reducing human effort and enhancing accuracy.
+
+</div>
 
 
 <h3> Quick Links </h3>

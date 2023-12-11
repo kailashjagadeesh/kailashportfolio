@@ -11,11 +11,15 @@ cover:
 --- 
 
 <h2>Summary</h2>
+<div style="text-align: justify">
 
 - Contributed to the development of a navigation stack for a mobile robot with future plans to scale it up for self-driving cars at Robotronics Systems Pvt Ltd.
 - Designed URDF files and conducted simultaneous localization and mapping in a virtual map.
 - Implemented point-to-point navigation and other functions in simulation using ROS (Robot Operating System) and Gazebo, utilizing the GMapping package to create and solve equations for navigation.
 - Actively participated in the implementation of ROS on microcontrollers using Raspberry Pi and Jetson Nano.
+
+</div>
+
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

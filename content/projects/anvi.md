@@ -9,6 +9,8 @@ weight: 204
 cover:
     image: "projects/anvi/cover.png"
 --- 
+<div style="text-align: justify">
+
 <h1> Objective </h1>
 As the primary mentor for this project, our goal was to cater to the needs of visually impaired individuals by creating a wearable, cost-effective device that provides audio instructions based on the user's surroundings.
 
@@ -31,6 +33,8 @@ As the primary mentor for this project, our goal was to cater to the needs of vi
 - GPS tracking for location-based services and emergency contacts notified in case of a fall.
 
 This device not only addresses the accessibility needs of the visually impaired but does so with an emphasis on safety and affordability. The combination of cutting-edge technology and thoughtful design makes it a promising solution in assistive technology.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

@@ -9,6 +9,9 @@ weight: 203
 cover:
     image: "/projects/sparo/cover.png"
 --- 
+<div style="text-align: justify">
+
+
 <h1> Objective</h1>
 As the mentor for this project, I provided guidance in developing a system for creating editable 3D models of real-world objects using a minimal set of images, with a focus on leveraging Structure from Motion and Neural Radiance Fields.
 
@@ -30,6 +33,9 @@ The project aims to revolutionize 3D reconstruction in virtual space, finding ap
 - **Editable 3D Models:** Creates editable 3D models from limited input images.
 
 This project, powered by NeRF, Tensorflow, Pytorch, and Deep Learning, stands at the forefront of 3D reconstruction technology, offering a versatile solution for generating detailed and editable 3D models from minimal visual input.
+
+</div>
+
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

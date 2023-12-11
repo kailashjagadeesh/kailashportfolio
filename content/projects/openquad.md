@@ -9,6 +9,8 @@ weight: 206
 cover:
     image: "projects/openquad/cover.jpg"
 --- 
+<div style="text-align: justify">
+
 <h1>Project Overview</h1>
 As the primary member leading this project, the focus is on developing an open-source quadcopter platform for advancing research in drone autonomy. The project encompasses the implementation of various deep learning and computer vision algorithms, including person tracking, gesture control using human pose estimation, optical flow stabilization, obstacle avoidance, and depth estimation using monocular vision.
 
@@ -39,6 +41,9 @@ The Raspberry Pi runs a ROS node, establishing communication with another ROS no
 <h2> Conclusion</h2>
 
 This project contributes to the field of drone autonomy research by providing an open-source platform with advanced features such as person tracking, gesture control, optical flow stabilization, obstacle avoidance, and depth estimation. The utilization of industry-standard components like Pixhawk and Raspberry Pi enhances the project's accessibility and reproducibility.
+
+</div>
+
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->

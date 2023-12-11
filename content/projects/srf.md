@@ -9,6 +9,9 @@ weight: 209
 cover:
     image: "/projects/SRF/cover.jpg"
 --- 
+<div style="text-align: justify">
+
+
 <h1> Objective</h1>
 As a dedicated member of this transformative project, I contributed to the development of Supernumerary Robotic Fingers, a wearable robot designed to enhance the capabilities of the human hand for performing a range of prehensile, bimanual, and manipulation tasks.
 
@@ -30,6 +33,8 @@ The wearable robot serves as an active compensatory tool, particularly beneficia
 - **Rehabilitation Device:** Intended as a tool to assist in bimanual tasks, such as grasping and manipulating objects.
 
 This project, employing Machine Learning, Control Systems, Rehabilitative Robotics, and Dynamics, represents a significant stride in assistive technology, providing innovative solutions for individuals in therapeutic recovery seeking enhanced hand functionality.
+
+</div>
 
 <h3> Quick Links </h3>
 <!--- this is for the link icons  --->
